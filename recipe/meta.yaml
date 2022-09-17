@@ -23,6 +23,7 @@ requirements:
     - {{ compiler('fortran') }}
     - {{ compiler('c') }}
     - {{ compiler('cxx') }}
+    - make
   host:
     - openlibm 0.5.4
 
