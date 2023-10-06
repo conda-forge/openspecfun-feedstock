@@ -1,6 +1,6 @@
 {% set name = "openspecfun" %}
-{% set version = "0.5.5" %}
-{% set sha256 = "e3fcce3183005d5404ea5510cfb4c1d5639a42002336b36c6a7d2d8ed7811d2e" %}
+{% set version = "0.5.6" %}
+{% set sha256 = "f77401cdadde8e4c59cd862ebb71a015141f7ad3dca638a17dd617b5e801572a" %}
 
 package:
   name: {{ name|lower }}
@@ -15,7 +15,7 @@ source:
     - 0002-no-fc-override.patch
 
 build:
-  number: 1
+  number: 0
   skip: true  # [win]
 
 requirements:
