@@ -1,11 +1,11 @@
-About openspecfun
-=================
+About openspecfun-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/openspecfun-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/JuliaLang/openspecfun
 
 Package license: MIT, Public Domain
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/openspecfun-feedstock/blob/main/LICENSE.txt)
 
 Summary: A collection of special mathematical functions
 
@@ -32,14 +32,14 @@ Current build status
               <td>linux_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=723&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/openspecfun-feedstock?branchName=main&jobName=linux&configuration=linux_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/openspecfun-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=723&branchName=main">
-                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/openspecfun-feedstock?branchName=main&jobName=osx&configuration=osx_64_" alt="variant">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/openspecfun-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_" alt="variant">
                 </a>
               </td>
             </tr>
